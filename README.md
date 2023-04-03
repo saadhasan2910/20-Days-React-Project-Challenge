@@ -1,3 +1,3 @@
 # 35-Days-React-Project-Challenge
 
-1. Restaurent Project
+1. Restaurant Project - Pending

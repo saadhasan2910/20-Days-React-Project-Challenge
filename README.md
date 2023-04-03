@@ -1,4 +1,4 @@
-# 35-Days-React-Project-Challenge
+# 20 React-Project-Challenge (Practise React from Beginner to Advanced Level)
 
 1. Restaurant Menu Project
 2. To Do List Project

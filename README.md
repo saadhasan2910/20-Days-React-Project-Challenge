@@ -1,7 +1,7 @@
 # 20 React-Project-Challenge (Practise React from Beginner to Advanced Level)
 
-1. Restaurant Menu Project
-2. To Do List Project
+Day 1. Restaurant Menu Project - https://github.com/saadhasan2910/restaurant-project
+Day 2. To Do List Project - https://github.com/saadhasan2910/to-do-list-project
 3. Weather App Project
 4. Dark Theme Gradient Website
 5. Dining Restaurent Project

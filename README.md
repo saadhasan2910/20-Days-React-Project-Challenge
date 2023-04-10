@@ -5,7 +5,7 @@
 3. Weather App Project - https://github.com/saadhasan2910/weather-project
 4. Dark Theme Gradient Website.
 5. Dining Restaurent Project.
-6. Qoute Generater (React Fetch API) Project.
+6. Qoute Generater (React Fetch API) Project - https://github.com/saadhasan2910/random-qoute-generator
 7. Google Search Project.
 8. Video Chat Application.
 9. Budget Tracker (Voice Powered).
